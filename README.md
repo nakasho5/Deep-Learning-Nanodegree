@@ -8,4 +8,4 @@
 5. [Career Services]()
 
 ## Certificate
-![](https://github.com/ShoNakamura5/Data-Scientist-Nanodegree/blob/main/Data%20Scientist%20Nanodegree%20Certificate.png)
+![](https://github.com/ShoNakamura5/Deep-Learning-Nanodegree/blob/main/Deep%20Learning%20Nanodegree%20Certificate.png)
