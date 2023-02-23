@@ -1,7 +1,7 @@
 # Deep-Learning-Nanodegree
 
 ## Project
-1. [Developing a Handwritten Digits Classifier with PyTorch]()
+1. [Developing a Handwritten Digits Classifier with PyTorch](https://github.com/ShoNakamura5/Deep-Learning-Nanodegree/tree/main/Project1_Developing%20a%20Handwritten%20Digits%20Classifier%20with%20PyTorch)
 2. [Landmark Classification & Tagging for Social Media]()
 3. [LSTM Chatbot]()
 4. [Face Generation]()
