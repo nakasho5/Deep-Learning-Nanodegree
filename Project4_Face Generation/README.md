@@ -1,41 +1,14 @@
-## GANs Project: Face Generation
-### Getting the project files
+# Face_Generation
 
-The project files are located in the Project Workspace and include the following files:
+In this project, I defined and train a DCGAN on a dataset of faces. This project is part of the [deep learning nanodegree program at udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101).   
 
-* **`dlnd_face_generation_starter.ipynb`**
-* **`README.md`**
-* **`requirements.txt`**
-* **`tests.py`**
-* **`processed-celeba-small.zip`**
+# Overview 
+The project is broken down into a series of tasks from loading in data to defining and training adversarial networks. And visualize the results of trained Generator generated samples that look like fairly realistic faces with small amounts of noise.
+The model is trained on the CelebFaces Attributes Dataset (CelebA):
+![Image of Training Set](https://github.com/ShoNakamura5/Face_Generation/blob/main/CelebA.png)
 
-We highly recommend using the Project Workspace to complete your project; however, if you choose to not use the workspace, you can download the project files from the Project Workspace.
+It generates new human faces that look like this(epochs=5):  
+![Image of Generated Faces](https://github.com/ShoNakamura5/Face_Generation/blob/main/Generate%20faces.png)
 
-### Instructions
-
-Open the notebook file, `dlnd_face_generation_starter.ipynb` and follow the instructions. This project is organized as follows:
-
-* **Data Pipeline**: implement a data augmentation function and a custom dataset class to load the images and transform them.
-* **Model Implementation**: build a custom generator and a custom discriminator to make your GAN
-* **Loss Functions and Gradient Penalty**: decide on loss functions and whether you want to use gradient penalty or not.
-* **Training Loop**: implement the training loop and decide on which strategy to use 
-
-Each section requires you to make design decisions based on the experience you have gathered in this course.  Do not hesitate to come back to a section to improve your model or your data pipeline based on the results that you are getting. 
-
-Building a deep learning model is an iterative process, and it's especially true for GANs! Good luck!
-
-### Submitting Your Project
-
-For this project you will need to submit one file – **dlnd_face_generation.ipynb**
-
-
-The full project may be submitted in two ways:
-
-**Project completed in Project Workspace:**
-
-* Your project may be submitted directly via the Project Workspace by pressing the **`Submit`** button in the bottom right corner of the workspace. 
-
-**Project completed outside of Project Workspace:**
-
-* Your project may be submitted using the Project Submission page by pressing the **`Submit Project`** button in the top right corner of the page and following those directions.
-* You will need to create a zip file of the required project file and submit the zip file.
+# Dataset
+I used the CelebFaces Attributes [Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) to train adversarial networks.
