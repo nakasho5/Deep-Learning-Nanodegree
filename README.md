@@ -3,7 +3,7 @@
 ## Project
 1. [Developing a Handwritten Digits Classifier with PyTorch](https://github.com/ShoNakamura5/Deep-Learning-Nanodegree/tree/main/Project1_Developing%20a%20Handwritten%20Digits%20Classifier%20with%20PyTorch)
 2. [Landmark Classification & Tagging for Social Media](https://github.com/ShoNakamura5/Deep-Learning-Nanodegree/tree/main/Project2_Landmark%20Classification%20%26%20Tagging%20for%20Social%20Media)
-3. [LSTM Chatbot]()
+3. [LSTM Chatbot](https://github.com/ShoNakamura5/Deep-Learning-Nanodegree/tree/main/Project3_LSTM%20Chatbot)
 4. [Face Generation]()
 5. [Career Services]()
 
