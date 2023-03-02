@@ -9,5 +9,3 @@
 
 ## Certificate
 ![](https://github.com/ShoNakamura5/Deep-Learning-Nanodegree/blob/main/Deep%20Learning%20Nanodegree%20Certificate.png)
-
-a
